@@ -1,0 +1,1 @@
+  // Check if any file path is outside ROOT_FOLDER
