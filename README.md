@@ -1,2 +1,2 @@
-# -Clipboard-Restriction
+# Clipboard-Restriction
 Clipboard Restriction Tool for Windows
