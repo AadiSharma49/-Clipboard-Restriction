@@ -24,7 +24,7 @@ This Windows application monitors the clipboard for file copy-paste actions. It 
 3. **Download and Set Up Project**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/clipboard-restriction-tool.git
+     git clone https://github.com/AadiSharma49/-Clipboard-Restriction.git
      ```
    - Navigate into the project directory:
      ```bash
